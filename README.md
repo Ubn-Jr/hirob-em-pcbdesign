@@ -7,14 +7,14 @@
 
 ## Pin Diagram
 - ### Motor Left 
-  - Encoder Pin (C1) --> GPIO 14
+  - Encoder Pin (M1) --> GPIO 14
 
-  - Encoder Pin (C2) --> GPIO 12
+  - Encoder Pin (M2) --> GPIO 12
 
 - ### Motor Right
-  - Encoder Pin (C1) --> GPIO 27
+  - Encoder Pin (M1) --> GPIO 27
 
-  - Encoder Pin (C2) --> GPIO 26
+  - Encoder Pin (M2) --> GPIO 26
 
 - ### Motor Driver 
   - INT 1 --> GPIO 35

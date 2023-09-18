@@ -1,32 +1,17 @@
-# hirob-em-pcbdesign
 
-# Welcome to hirob-em-pcbdesign!
+# Hi-Rob Test Board PCB Design
+## Required Components
+- Esp32 DevkitS V1.1
+- DRV8833 HW-627 Motor Driver 
+- N20 Encoder Gear Motor 
 
-  Hello there!
-# Our goals
-
-
- **To bring the project to a good end with the harmony within the team and to learn **
-
+![image](https://github.com/Ubn-Jr/hirob-em-pcbdesign/assets/109434872/0da08323-1536-4454-880c-2356c2e47e91)
 
 
+### To-Do
+
+- [x] Circuit schematic will be created using Altium Designer
+- [x] Add the photo of the test card
+- [ ] Circuit will be optimized according to embedded team feedback
 
 
-# Step By Step
-- >specific determination of the required components
-- >Making 'PCB Design' of the circuit diagram
-- >collection of the design on the circuit
-
-
-
-
-
-
-
-```mermaid
-graph LR
-
-A(Project identification) --> B( Design 'PCB 3D Modeling Map')
-B --> C(Bringing it together)
-C --> D(Test)
-```

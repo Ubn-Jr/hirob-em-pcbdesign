@@ -3,9 +3,11 @@
 ## Required Components
 - Esp32 DevkitS V1.1
 - DRV8833 HW-627 Motor Driver 
-- N20 Encoder Gear Motor 
+- N20 Encoder Gear Motor
+- D-Sun 3A Step-Down Switching Voltage Regulator 
 
-![image](https://github.com/Ubn-Jr/hirob-em-pcbdesign/assets/109434872/0da08323-1536-4454-880c-2356c2e47e91)
+![image](https://github.com/Ubn-Jr/hirob-em-pcbdesign/assets/109434872/b8152eb4-97c5-4902-9e75-442eb5366b39)
+
 
 
 ### To-Do
